@@ -1,0 +1,17 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "module": "node ./module/index.js"
+  },
+  "keywords": [],
+  "lib": [
+    "es2020",
+    "dom"
+  ],
+  "author": "",
+  "license": "ISC"
+}
